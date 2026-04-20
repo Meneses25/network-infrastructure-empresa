@@ -1,15 +1,17 @@
 # network-infrastructure-empresa
 Projeto de infraestrutura de rede corporativa com NAT, ACL, DHCP, DNS e interconexão entre filiais.
 
+
+
 # 🌐 Projeto de Rede Corporativa – Empresa XYZ
 
-## 📄 INTRODUÇÃO
+## 📌 DESCRIÇÃO
 Infraestrutura de rede corporativa para uma empresa de pequeno/médio porte, com interconexão entre duas filiais (New York e Miami).  
 A rede possui serviços internos, controle de acesso por meio de ACLs e saída para rede externa simulada utilizando NAT.
 
 ---
 
-## 🌐 TOPOLOGIA
+## 🏗️ TOPOLOGIA
 - 2 Roteadores (conexão WAN entre filiais)
 - 2 Switches (redes LAN)
 - 3 Dispositivos finais (PCs e laptop)
@@ -43,7 +45,7 @@ A rede possui serviços internos, controle de acesso por meio de ACLs e saída p
 
 ---
 
-## ✅ RESULTADO
+## ✅ RESULTADOS
 - Comunicação completa entre filiais
 - Serviços internos operacionais (DHCP, DNS, HTTP)
 - NAT funcionando corretamente
@@ -51,5 +53,5 @@ A rede possui serviços internos, controle de acesso por meio de ACLs e saída p
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 AUTOR
 Projeto desenvolvido por Nalberty Meneses
