@@ -3,7 +3,7 @@ Projeto de infraestrutura de rede corporativa com NAT, ACL, DHCP, DNS e intercon
 
 
 
-# 🌐 Projeto de Rede Corporativa – Empresa XYZ
+# 🌐 Projeto de Rede Corporativa – Empresa XYZ (Cisco Packet Tracer)
 
 ## 📌 DESCRIÇÃO
 Infraestrutura de rede corporativa para uma empresa de pequeno/médio porte, com interconexão entre duas filiais (New York e Miami).  
